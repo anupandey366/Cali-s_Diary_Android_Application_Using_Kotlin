@@ -1,1 +1,1 @@
-# Japan_Bank_Android_Application_Using_Kotlin
+# Cali-s_Diary_Android_Application_Using_Kotlin
